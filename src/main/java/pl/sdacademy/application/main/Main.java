@@ -22,7 +22,7 @@ public class Main extends Application {
 //        powolanie loader'a
 //        wazny "/" przed plikiem fxml
 
-//        FXMLLoader loader = new FXMLLoader(this.getClass().getResource("/LoginView.fxml"));
+//        FXMLLoader loader = new FXMLLoader(this.getClass().getResource("/BillFromView.fxml"));
 
 //        aplikacja formularz, zajecia 15.03
 
